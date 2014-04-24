@@ -1,6 +1,6 @@
 // BritishInvasion.m
 // 
-// Copyright (c) 2014年 Mattt Thompson
+// Copyright (c) 2014 Mattt Thompson
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
