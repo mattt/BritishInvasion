@@ -93,10 +93,8 @@
 #define CGColourRef CGColorRef
 #define CGColourRenderingIntent CGColorRenderingIntent
 #define CGColourSpaceCopyICCProfile CGColorSpaceCopyICCProfile
-#define CGColourSpaceCreateCalibratedGray CGColorSpaceCreateCalibratedGray
 #define CGColourSpaceCreateCalibratedRGB CGColorSpaceCreateCalibratedRGB
 #define CGColourSpaceCreateDeviceCMYK CGColorSpaceCreateDeviceCMYK
-#define CGColourSpaceCreateDeviceGray CGColorSpaceCreateDeviceGray
 #define CGColourSpaceCreateDeviceRGB CGColorSpaceCreateDeviceRGB
 #define CGColourSpaceCreateICCBased CGColorSpaceCreateICCBased
 #define CGColourSpaceCreateIndexed CGColorSpaceCreateIndexed
@@ -119,8 +117,7 @@
 #define CGContextSetFillColour CGContextSetFillColor
 #define CGContextSetFillColourSpace CGContextSetFillColorSpace
 #define CGContextSetFillColourWithColour CGContextSetFillColorWithColor
-#define CGContextSetGrayFillColour CGContextSetGrayFillColor
-#define CGContextSetGrayStrokeColour CGContextSetGrayStrokeColor
+
 #define CGContextSetRGBFillColour CGContextSetRGBFillColor
 #define CGContextSetRGBStrokeColour CGContextSetRGBStrokeColor
 #define CGContextSetShadowWithColour CGContextSetShadowWithColor
@@ -256,10 +253,10 @@
 
 #pragma mark - 🇺🇸 Gray / 🇬🇧 Grey
 
-#define CGColorSpaceCreateCalibratedGrey CGColorSpaceCreateCalibratedGray
-#define CGColorSpaceCreateDeviceGrey CGColorSpaceCreateDeviceGray
-#define CGContextSetGreyFillColor CGContextSetGrayFillColor
-#define CGContextSetGreyStrokeColor CGContextSetGrayStrokeColor
+#define CGColourSpaceCreateCalibratedGrey CGColorSpaceCreateCalibratedGray
+#define CGColourSpaceCreateDeviceGrey CGColorSpaceCreateDeviceGray
+#define CGContextSetGreyFillColour CGContextSetGrayFillColor
+#define CGContextSetGreyStrokeColour CGContextSetGrayStrokeColor
 #define UIActivityIndicatorViewStyleGrey UIActivityIndicatorViewStyleGray
 #define UIPrintInfoOutputGreyscale UIPrintInfoOutputGrayscale
 #define UIPrintInfoOutputPhotoGreyscale UIPrintInfoOutputPhotoGrayscale
