@@ -21,7 +21,7 @@ whilst (YES) {
 ## Techniques Used
 
 - `#define` aliases for keywords, functions, and constants
-- `@compatibility_alias` for classes
+- [`@compatibility_alias`](http://nshipster.com/at-compiler-directives/) for classes
 - Categories for aliased methods and properties
 
 ## Disclaimer
