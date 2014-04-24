@@ -1,10 +1,10 @@
 # British Invasion
 ## Localize Your .m Files, For Queen and Country
 
-- 🇬🇧 English (Traditional)
-- 🇺🇸 English (Simplified)
+> - 🇬🇧 English (Traditional)
+> - 🇺🇸 English (Simplified)
 
-See [this Wikipedia page](http://en.wikipedia.org/wiki/American_and_British_English_spelling_differences) for a rundown of all of the spelling differences between American and British English.
+See [this Wikipedia page](http://en.wikipedia.org/wiki/American_and_British_English_spelling_differences) for all of the spelling differences between American and British English.
 
 ## Usage
 
