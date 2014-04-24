@@ -51,11 +51,11 @@
     return [self bezierPathWithArcCenter:centre radius:radius startAngle:startAngle endAngle:endAngle clockwise:clockwise];
 }
 
-- (void)addArcWithCentere:(CGPoint)centre
-                   radius:(CGFloat)radius
-               startAngle:(CGFloat)startAngle
-                 endAngle:(CGFloat)endAngle
-                clockwise:(BOOL)clockwise
+- (void)addArcWithCentre:(CGPoint)centre
+                  radius:(CGFloat)radius
+              startAngle:(CGFloat)startAngle
+                endAngle:(CGFloat)endAngle
+               clockwise:(BOOL)clockwise
 {
     [self addArcWithCenter:centre radius:radius startAngle:startAngle endAngle:endAngle clockwise:clockwise];
 }
