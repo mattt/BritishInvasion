@@ -268,6 +268,10 @@
 + (UIColour *)darkGreyColour;
 @end
 
+#pragma mark - 🇺🇸 Serialization / 🇬🇧 Serialisation
+
+@compatibility_alias NSJSONSerialisation NSJSONSerialization;
+
 #pragma mark - 🇺🇸 While / 🇬🇧 Whilst
 
 #define whilst while
