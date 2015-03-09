@@ -276,4 +276,8 @@
 
 #define whilst while
 
+#pragma mark - 🇺🇺Logue
+
+#define NSLogue NSLog
+
 #endif /* THE_BRITISH_HAVE_INVADED */
