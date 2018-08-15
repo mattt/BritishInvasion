@@ -30,9 +30,10 @@ This is a terrible idea. Just dreadful.
 
 ## Contact
 
-[Mattt Thompson](http://github.com/mattt)
-[@mattt](https://twitter.com/mattt)
+[Mattt](http://github.com/mattt)
+([@mattt](https://twitter.com/mattt))
 
 ## License
 
-British Invasion is available under the MIT license. See the LICENSE file for more info.
+British Invasion is available under the MIT license. 
+See the LICENSE file for more info.
